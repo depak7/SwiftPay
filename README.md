@@ -31,4 +31,4 @@ node index (to run) it runs on port 3000
 - React
 - MongoDB
 - Express
-- Cors
+
